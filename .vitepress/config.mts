@@ -16,7 +16,8 @@ export default defineConfig({
       {
         text: 'Notes',
         items: [
-          { text: '机器学习介绍', link: '/240308' }
+          { text: '机器学习介绍', link: '/240308' },
+          { text: '模型评估与选择', link: '/240315'}
         ]
       }
     ],

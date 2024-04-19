@@ -20,7 +20,8 @@ export default defineConfig({
           { text: '模型评估与选择', link: '/240315' },
           { text: '模型训练', link: '/240322' },
           { text: 'CNN && RNN', link: '/240329' },
-          { text: 'RNN、LSTM、GRU', link: '/240407'}
+          { text: 'RNN、LSTM、GRU1', link: '/240407' },
+          { text: 'RNN、LSTM、GRU2', link: '/240419' },
         ]
       }
     ],

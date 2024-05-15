@@ -22,7 +22,8 @@ export default defineConfig({
           { text: 'CNN && RNN', link: '/240329' },
           { text: 'RNN、LSTM、GRU1', link: '/240407' },
           { text: 'RNN、LSTM、GRU2', link: '/240419' },
-          { text: '词向量、seq2seq', link: '/240426'}
+          { text: '词向量、seq2seq', link: '/240426' },
+          { text: 'transformer', link: '/240510' }
         ]
       }
     ],

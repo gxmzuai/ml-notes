@@ -24,7 +24,8 @@ export default defineConfig({
           { text: 'RNN、LSTM、GRU2', link: '/240419' },
           { text: '词向量、seq2seq', link: '/240426' },
           { text: 'transformer1', link: '/240510' },
-          { text: 'transformer2', link: '/240517' }
+          { text: 'transformer2', link: '/240517' },
+          { text: '上机课1', link: '/240524' }
         ]
       }
     ],

@@ -25,7 +25,8 @@ export default defineConfig({
           { text: '词向量、seq2seq', link: '/240426' },
           { text: 'transformer1', link: '/240510' },
           { text: 'transformer2', link: '/240517' },
-          { text: '上机课1', link: '/240524' }
+          { text: '上机课1', link: '/240524' },
+          { text: '上机课2', link: '/240531' }
         ]
       }
     ],

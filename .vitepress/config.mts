@@ -26,7 +26,8 @@ export default defineConfig({
           { text: 'transformer1', link: '/240510' },
           { text: 'transformer2', link: '/240517' },
           { text: '上机课1', link: '/240524' },
-          { text: '上机课2', link: '/240531' }
+          { text: '上机课2', link: '/240531' },
+          { text: '上机课3', link: '/240607' },
         ]
       }
     ],

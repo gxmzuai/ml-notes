@@ -28,6 +28,7 @@ export default defineConfig({
           { text: '上机课1', link: '/240524' },
           { text: '上机课2', link: '/240531' },
           { text: '上机课3', link: '/240607' },
+          { text: '上机课4', link: '/240614' }
         ]
       }
     ],

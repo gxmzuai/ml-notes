@@ -30,7 +30,8 @@ export default defineConfig({
           { text: '上机课3', link: '/240607' },
           { text: '上机课4', link: '/240614' },
           { text: '上机课5', link: '/240621' },
-          { text: '上机课6', link: '/240628' }
+          { text: '上机课6', link: '/240628' },
+          { text: '期末考试要点', link: '/240705' }
         ]
       }
     ],
